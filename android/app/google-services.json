@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58056088677",
+    "project_id": "grekos-4ab63",
+    "storage_bucket": "grekos-4ab63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58056088677:android:2b94391cf1dce8b818ba8c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcTDFHdEHVk7Nui-Pj6B-D2KU6SzzbCtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
